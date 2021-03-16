@@ -17,7 +17,7 @@ To start:
 Link to simple demo: https://youtu.be/f0XbO9m9M6I
 
 Game rules:  
-Player(1,2,3,4) is in labyrinth. 
-His task is to collect coins(c,t,T) and carry them to the camp(A), where they get saved into his account.
-If he crashes into another player or npc beast(\*) he dies, leaving all money in place.
-Walking through the bush(#) takes two moves.
+Player(1,2,3,4) is in labyrinth.  
+His task is to collect coins(c,t,T) and carry them to the camp(A), where they get saved into his account.  
+If he crashes into another player or npc beast(\*) he dies, leaving all money in place.  
+Walking through the bush(#) takes two moves.  
