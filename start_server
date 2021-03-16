@@ -1,0 +1,4 @@
+#!/bin/bash
+g++ -o output server.cpp -lrt -pthread -lncursesw -D_XOPEN_SOURCE_EXTENDED
+./output
+rm output
