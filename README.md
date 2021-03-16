@@ -5,9 +5,13 @@ Ncurses is used as graphical interface.
 Game works only on Linux (tested on Ubuntu 18.04) and requires ncurses download.
 
 To start:
+
 -place all files in folder
+
 -open terminal in folder
+
 -use './start_server' to start server
+
 -use './start_player' to start player(up to 4 times, each for one player)
 
 Link to simple demo: https://youtu.be/f0XbO9m9M6I
