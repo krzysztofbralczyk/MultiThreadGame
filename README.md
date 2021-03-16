@@ -10,9 +10,9 @@ To start:
 
 -open terminal in folder
 
--use './start_server' to start server
+-use './start_server' to start server terminal
 
--use './start_player' to start player(up to 4 times, each for one player)
+-use './start_player' to start player terminal(up to 4 times, each for one player)
 
 Link to simple demo: https://youtu.be/f0XbO9m9M6I
 
